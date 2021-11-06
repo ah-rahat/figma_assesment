@@ -1,0 +1,68 @@
+   body{
+    background-color: black;
+    }
+    .figma{
+    margin: 58px 123px 58px 123px;
+    background-color: white;
+    height: 540px;
+    }
+    .figma_body{
+    background-color: #382E42;
+    height: 540px;
+    position: absolute;
+    }
+    .figma_form{
+      border-radius: 10px;
+    box-shadow: 3px 5px 10px 5px #888888;
+    top: 50px;
+    background-color: white;
+    position: relative;
+    margin-right:108px !important;
+    margin-left:620px !important;
+    text-align: center;
+
+    }
+    .form_control{
+    border-radius: 5px;
+    width: 52%
+    }
+    .btn-submit{
+    background-color: #625A99;
+    line-height: 1;
+    color: white;
+    font-weight: bolder;
+    }
+    .fp{
+    margin-left: 117px;
+    color: red;
+    font-size: 11px;
+    text-decoration: none;
+    }
+    #header:after {
+    content: '';
+    width: 20%;
+    border-bottom: solid 1px #B3B3B3;
+    position: absolute;
+    left: 98px;
+    top: 62%;
+    z-index: 1;
+    }
+    #header:before {
+    content: '';
+    width: 20%;
+    border-bottom: solid 1px #B3B3B3;
+    position: absolute;
+    left: 214px;
+    top: 62%;
+    z-index: 1;
+    }
+    .fa-facebook:before {
+    content: "\f09a";
+    color: blue;
+    margin-right: 20px;
+    }
+    .fa-google:before {
+    content: "\f1a0";
+    color: #1BA160;
+    
+}
